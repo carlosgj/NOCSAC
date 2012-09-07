@@ -1,0 +1,7 @@
+[Device Addresses]
+001 = "Master Node"
+002 = "Door Control"
+003 = "Lights"
+004 = "Portable 1"
+[Valid Users]
+1145928 = "Carlos Gross Jones"

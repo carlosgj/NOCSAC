@@ -1,0 +1,51 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "159,1598,562,1970"
+
+[AB_Cache_{3DBA7236-FD66-410D-900D-39234DEBD4B4}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "373c8fe97aacc91e7075e2e931e757a0"
+Cache_GenFile_Count[Integer] = 5
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[0][Path] Line0002 = "VIEW/builds/EXE/briefcase/briefcase.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[1][Path] Line0002 = "VIEW/builds/EXE/briefcase/briefcase.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[2][Path] Line0002 = "VIEW/builds/EXE/briefcase/briefcase.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[3][Path] Line0002 = "VIEW/builds/EXE/briefcase/niwebserver.conf"
+Cache_GenFile[4][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[4][Path] Line0002 = "VIEW/builds/EXE/briefcase/data/lvinput.dll"
+Cache_GenGUID_Count[Integer] = 5
+Cache_GenGUID[0][String] = "{2D96B206-610D-4383-BD18-4D551CF7A41F}"
+Cache_GenGUID[1][String] = "{A6DAB0FA-AA95-4715-8797-53BD4978D725}"
+Cache_GenGUID[2][String] = "{11062006-78B4-48C1-94F0-762949455373}"
+Cache_GenGUID[3][String] = ""
+Cache_GenGUID[4][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/LabV"
+Cache_OutputDir[Path] Line0002 = "IEW/builds/EXE/briefcase"
+
+[AB_Cache_{801A04E3-C7C8-4EAC-AC5C-3FFB49322E0C}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "373c8fe97aacc91e7075e2e931e757a0"
+Cache_GenFile_Count[Integer] = 5
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[0][Path] Line0002 = "VIEW/builds/EXE/briefcase/briefcase.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[1][Path] Line0002 = "VIEW/builds/EXE/briefcase/briefcase.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[2][Path] Line0002 = "VIEW/builds/EXE/briefcase/briefcase.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[3][Path] Line0002 = "VIEW/builds/EXE/briefcase/niwebserver.conf"
+Cache_GenFile[4][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[4][Path] Line0002 = "VIEW/builds/EXE/briefcase/data/lvinput.dll"
+Cache_GenGUID_Count[Integer] = 5
+Cache_GenGUID[0][String] = "{2D96B206-610D-4383-BD18-4D551CF7A41F}"
+Cache_GenGUID[1][String] = "{A6DAB0FA-AA95-4715-8797-53BD4978D725}"
+Cache_GenGUID[2][String] = "{11062006-78B4-48C1-94F0-762949455373}"
+Cache_GenGUID[3][String] = ""
+Cache_GenGUID[4][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/LabV"
+Cache_OutputDir[Path] Line0002 = "IEW/builds/EXE/briefcase"
+

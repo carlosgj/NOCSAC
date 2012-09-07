@@ -1,0 +1,53 @@
+[AB_Cache_{C95D8C79-9380-4DDF-8245-583A9893B471}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "491800295fec6c58a53ce0dc6ba34c6a"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[0][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/iface."
+Cache_GenFile[0][Path] Line0003 = "exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[1][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/iface."
+Cache_GenFile[1][Path] Line0003 = "aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[2][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/iface."
+Cache_GenFile[2][Path] Line0003 = "ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[3][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/niwebs"
+Cache_GenFile[3][Path] Line0003 = "erver.conf"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{EB6C1713-F98F-41BE-B43F-B464A901605A}"
+Cache_GenGUID[1][String] = "{2DCC5CBF-8C10-4114-A6D4-E628D32428A7}"
+Cache_GenGUID[2][String] = "{CFC94C44-ABC6-4D9B-B4CE-4C07DE308E24}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/LabV"
+Cache_OutputDir[Path] Line0002 = "IEW/builds/nocsac_iface/nocsac iface"
+
+[AB_Cache_{DCD2293B-80BC-485A-ABBB-4696097F8A17}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "491800295fec6c58a53ce0dc6ba34c6a"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[0][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/iface."
+Cache_GenFile[0][Path] Line0003 = "exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[1][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/iface."
+Cache_GenFile[1][Path] Line0003 = "aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[2][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/iface."
+Cache_GenFile[2][Path] Line0003 = "ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/Lab"
+Cache_GenFile[3][Path] Line0002 = "VIEW/builds/nocsac_iface/nocsac iface/niwebs"
+Cache_GenFile[3][Path] Line0003 = "erver.conf"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{EB6C1713-F98F-41BE-B43F-B464A901605A}"
+Cache_GenGUID[1][String] = "{2DCC5CBF-8C10-4114-A6D4-E628D32428A7}"
+Cache_GenGUID[2][String] = "{CFC94C44-ABC6-4D9B-B4CE-4C07DE308E24}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/Carlos/Desktop/LabV"
+Cache_OutputDir[Path] Line0002 = "IEW/builds/nocsac_iface/nocsac iface"
+
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "159,1598,562,1970"
+
